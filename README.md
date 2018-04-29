@@ -35,6 +35,8 @@ Artigos Relacionados a Concursos Públicos no Brasil.
   27. [Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/IPHAN.md)
   28. [Polícia Militar de Mato Grosso do SUl (PM-MS) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/PMMS.md)
   29. [Escrivão e Investigador da Polícia Civil de São Paulo (PC-SP) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/PCSP2.md)
+  30. [Tribunal de Justiça de Santa Catarina (TJ-SC) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/TjSc.md)
+  31. [[Tribunal de Justiça do Acre (TJ-AC) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/TJAC.md)
   
   
   
