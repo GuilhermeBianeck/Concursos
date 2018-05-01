@@ -6,7 +6,7 @@ A Secretaria Municipal de Saúde do Rio de Janeiro (SMS) juntamente com a Prefei
 
 ## Etapa Avaliativa
 
-O processo seletivo é composto pela Avaliação do Currículo, da avaliação da documentação comprobatória e dos diplomas e certificados.
+O processo seletivo é composto pela Avaliação do Currículo, da avaliação da documentação comprobatória, diplomas e certificados.
 
 O critério de avalição do currículo leva em consideração os seguintes fatores:
 * Comprovação de Cursos de Atualização ou de aperfeiçoamento, na área de atuação pretendida.
@@ -14,7 +14,7 @@ O critério de avalição do currículo leva em consideração os seguintes fato
 * Comprovação de experiência profissional em unidade de saúde pública no território nacional, exceto no caso de vínculo oriundo de contratação temporária na PCRJ. 
 * Comprovação de experiência na especialidade a que concorre, exceto no caso de vínculo oriundo de contratação temporária na PCRJ.
 
-Para a inscrição no Concurso Público é necessário se inscrever entre o dia 9 de abril até o dia 20 de abril, no horário comercial no seguinte endereço: Rua Afonso Cavalcanti, n. 455 - Sala 601, Cidade nova, Rio de Janeiro - RJ, não é necessário pagar taxa de inscrição visto que não haverá prova.
+Para a inscrição no Concurso Público é necessário se cadastrar entre o dia 9 de abril até o dia 20 de abril, no horário comercial no seguinte endereço: Rua Afonso Cavalcanti, n. 455 - Sala 601, Cidade nova, Rio de Janeiro - RJ, não é necessário pagar taxa de inscrição visto que não haverá prova.
 
 ### Vagas Ofertadas
 
