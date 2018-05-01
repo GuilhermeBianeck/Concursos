@@ -36,8 +36,10 @@ Artigos Relacionados a Concursos Públicos no Brasil.
   28. [Polícia Militar de Mato Grosso do SUl (PM-MS) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/PMMS.md)
   29. [Escrivão e Investigador da Polícia Civil de São Paulo (PC-SP) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/PCSP2.md)
   30. [Tribunal de Justiça de Santa Catarina (TJ-SC) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/TjSc.md)
-  31. [[Tribunal de Justiça do Acre (TJ-AC) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/TJAC.md)
-  
+  31. [Tribunal de Justiça do Acre (TJ-AC) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/TJAC.md)
+  32. [Secretaria Municipal de Saúde (Sms-RJ) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/smsrj.md)
+  33. [Secretaria de Educação, Cultura e Esporte de Goiás  (Seduce-GO) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/SeduceGo.md)
+  34. [Universidade Federal Rural do Rio de Janeiro (UFRRJ) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/Ufrrj.md)
   
   
   
