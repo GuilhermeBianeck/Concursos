@@ -10,7 +10,7 @@ Vale lembrar que a para a participação do concurso público é necessário ter
 
 ## Etapa Avaliativa  
 
-A seleção para este concurso público compreenderá da aplicação de Prova Objetiva e da avaliação de títulos, que terão caráter eliminatório e classificatório. 
+A seleção para este concurso público compreenderá da aplicação da Prova Objetiva e da avaliação de títulos, que terão caráter eliminatório e classificatório. 
 
 A prova Objetiva aborda as áreas de conhecimentos Gerais, Básicos e Específicos, onde os conhecimentos específicos possuem peso dois. 
 
