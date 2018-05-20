@@ -40,6 +40,10 @@ Artigos Relacionados a Concursos Públicos no Brasil.
   32. [Secretaria Municipal de Saúde (Sms-RJ) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/smsrj.md)
   33. [Secretaria de Educação, Cultura e Esporte de Goiás  (Seduce-GO) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/SeduceGo.md)
   34. [Universidade Federal Rural do Rio de Janeiro (UFRRJ) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/Ufrrj.md)
+  35. [Secretaria de Saúde de Pernambuco (SES-PE) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/SESPe.md)
+  
+  
+  
   
   
   
