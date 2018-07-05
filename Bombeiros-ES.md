@@ -1,6 +1,6 @@
-# Concurso Polícia Militar do Espirito Santo
+# Concurso Bombeiros do Espirito Santo
 
-Se encontram aberta as [Inscrições](http://www.institutoaocp.org.br/concursos.jsp) para o concurso público de Bombeiros do Espirito Santo para todo o estado. Estão sendo concorridas 127 vagas para os Bombeiros distribuídas em diversos cargos de nível médio.
+Encontram-se abertas as [Inscrições](http://www.institutoaocp.org.br/concursos.jsp) para o concurso público de Bombeiros do Espirito Santo para todo o estado. Estão sendo concorridas 127 vagas para os Bombeiros distribuídas em diversos cargos de nível médio.
 
 O [Instituto AOCP](http://www.institutoaocp.org.br) foi escolhido como banca organizadora do concurso através do processo de licitação e portanto, está responsável para a aplicação e avaliação das provas realizadas. Para a consulta do [Edital](http://www.institutoaocp.org.br/concursos.jsp) basta acessar o site do [Instituto AOCP](http://www.institutoaocp.org.br/concursos.jsp).
 
