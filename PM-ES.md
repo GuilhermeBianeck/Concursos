@@ -1,6 +1,6 @@
 # Concurso Polícia Militar do Espirito Santo
 
-Se encontram aberta as [Inscrições](http://www.institutoaocp.org.br/concursos.jsp) para o concurso público da Polícia Militar do Espirito Santo para todo o estado. Estão sendo concorridas 290 vagas para a Polícia Militar distribuídas em diversos cargos de nível médio.
+Encontram-se abertas as [Inscrições](http://www.institutoaocp.org.br/concursos.jsp) para o concurso público da Polícia Militar do Espirito Santo para todo o estado. Estão sendo concorridas 290 vagas para a Polícia Militar distribuídas em diversos cargos de nível médio.
 
 O [Instituto AOCP](http://www.institutoaocp.org.br) foi escolhido como banca organizadora do concurso através do processo de licitação e portanto, está responsável para a aplicação e avaliação das provas realizadas. Para a consulta do [Edital](http://www.institutoaocp.org.br/concursos.jsp) basta acessar o site do [Instituto AOCP](http://www.institutoaocp.org.br/concursos.jsp).
 
@@ -29,7 +29,7 @@ Os cargos oferecidos para o concurso público da Polícia Militar do Espirito Sa
 
 O concurso público terá as suas provas realizadas somente no estado de Espirito Santo nas cidades de Cachoeiro de Itapemirim, Colatina, Linhares, Nova Venécia, São Mateus, Venda Nova do Imigrante e Vitória. A prova será aplicada dia 26 de agosto de 2018, a escolha da cidade é a critério do participante e é selecionada no momento da inscrição.  
 
-A prova Objetiva é composta por 80 questões de múltiplas escolhas. A prova envolve questões de Língua Portuguesa, conhecimentos específicos e raciocínio Lógico. As próximas etapas seletivas incluem a verificação de documentação, testes físicos, exames psicosomático, avaliação psicológica, investigação social, exames de saúde e o curso de formação.
+A prova Objetiva é composta por 80 questões de múltiplas escolhas. A prova envolve questões de Língua Portuguesa, conhecimentos específicos e raciocínio Lógico. As próximas etapas seletivas incluem a verificação de documentação, testes físicos, exames psicossomático, avaliação psicológica, investigação social, exames de saúde e o curso de formação.
 
 ## Calendário 
 
